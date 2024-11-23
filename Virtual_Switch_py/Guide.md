@@ -165,6 +165,9 @@ cv2.destroyAllWindows()
 
 - **Test the LEDs**:
   - Turn the LEDs ON/OFF using Python to verify the connections.
+---
+
+![Circuit Diagram](/Circuit%20Diagram.png)
 
 ---
 
@@ -200,3 +203,4 @@ cv2.destroyAllWindows()
   
   ```bash
   python your_script.py
+  ```
