@@ -167,7 +167,7 @@ cv2.destroyAllWindows()
   - Turn the LEDs ON/OFF using Python to verify the connections.
 ---
 
-![Circuit Diagram](/Circuit%20Diagram.png)
+![Circuit Diagram](img/Circuit Diagram.png)
 
 ---
 
